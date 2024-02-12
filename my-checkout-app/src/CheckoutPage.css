@@ -1,0 +1,11 @@
+// src/CheckoutPage.css
+.checkout-page {
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 20px; 
+}
+
+.checkout-sections {
+  display: flex; 
+  justify-content: space-around; 
+}
